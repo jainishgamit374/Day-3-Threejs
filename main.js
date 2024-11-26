@@ -2,7 +2,6 @@ import * as THREE from "three";
 import { OrbitControls } from "three/addons/controls/OrbitControls.js";
 import { RGBELoader } from "three/examples/jsm/loaders/RGBELoader.js"; // Import HDRI loader
 import { GLTFLoader } from "three/addons/loaders/GLTFLoader.js";
-import Lenis from "@studio-freight/lenis";
 
 // Scene setup
 const scene = new THREE.Scene();
